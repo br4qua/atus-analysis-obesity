@@ -1,4 +1,4 @@
-Requirements:
+Python / Package Requirements:
 - Python 3.6
 - Jupyter
 - Seaborn
@@ -7,4 +7,11 @@ Requirements:
 - Pandas
 - Numpy
 - Scipy
+
+Install using pip or conda.
+
+Other requirements:
+- git-lfs
+
+Install using homebrew on Mac: `brew install git-lfs`
 
