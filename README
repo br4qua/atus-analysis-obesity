@@ -1,0 +1,10 @@
+Requirements:
+- Python 3.6
+- Jupyter
+- Seaborn
+- Matplotlib
+- SimpleJson
+- Pandas
+- Numpy
+- Scipy
+
