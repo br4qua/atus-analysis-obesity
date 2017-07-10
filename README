@@ -1,19 +1,18 @@
-Overview:
+Project Description:
 
-Obesity is prevalent in America.
-In this project, we use the ATUS (The American Time Use Survey Data) to identify 
-and rank factors which contribute to above-normal BMI(Body Mass Index). 
-Comprehensive results are shown in FinalProject.ipynb in analysis folder.
+In this project, we use The American Time Use Survey Data (ATUS) to identify
+and rank factors that contribute to above-normal BMI(Body Mass Index). 
+Comprehensive results are shown in FinalProject.ipynb in the analysis folder.
 
-  Python / Package Requirements:
-  - Python 3.6
-  - Jupyter
-  - Seaborn
-  - Matplotlib
-  - SimpleJson
-  - Pandas
-  - Numpy
-  - Scipy
-  
-  Other requirements:
-  - git-lfs
+Python / Package Requirements:
+- Python 3.6
+- Jupyter
+- Seaborn
+- Matplotlib
+- SimpleJson
+- Pandas
+- Numpy
+- Scipy
+
+Other requirements:
+- git-lfs
