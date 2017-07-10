@@ -2,7 +2,7 @@ Project Description:
 
 In this project, we use The American Time Use Survey Data (ATUS) to identify
 and rank factors that contribute to above-normal BMI(Body Mass Index). 
-Comprehensive results are shown in FinalProject.ipynb in the analysis folder.
+Comprehensive results are shown in FinalProject.ipynb in the analyses folder.
 
 Python / Package Requirements:
 - Python 3.6
