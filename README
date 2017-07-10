@@ -1,17 +1,19 @@
-Python / Package Requirements:
-- Python 3.6
-- Jupyter
-- Seaborn
-- Matplotlib
-- SimpleJson
-- Pandas
-- Numpy
-- Scipy
+Overview:
 
-Install using pip or conda.
+Obesity is prevalent in America.
+In this project, we use the ATUS (The American Time Use Survey Data) to identify 
+and rank factors which contribute to above-normal BMI(Body Mass Index). 
+Comprehensive results are shown in FinalProject.ipynb in analysis folder.
 
-Other requirements:
-- git-lfs
-
-Install using homebrew on Mac: `brew install git-lfs`
-
+  Python / Package Requirements:
+  - Python 3.6
+  - Jupyter
+  - Seaborn
+  - Matplotlib
+  - SimpleJson
+  - Pandas
+  - Numpy
+  - Scipy
+  
+  Other requirements:
+  - git-lfs
